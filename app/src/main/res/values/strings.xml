@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Faiz Cheat V1</string>
+    <string name="brand_prefix">FAIZ</string>
+    <string name="brand_accent">CHEAT</string>
+    <string name="brand_version">V1</string>
+    <string name="portrait_content_description">Mysterious anime protagonist portrait</string>
+    <string name="status_panel_demo_active">Panel Demo Active</string>
+    <string name="activity_standby">SYSTEM STANDBY — VISUAL DEMO</string>
+    <string name="activity_one_active">1 VISUAL MODULE ACTIVE</string>
+    <string name="activity_two_active">2 VISUAL MODULES ACTIVE</string>
+    <string name="activity_aimbot_on">AIMBOT VISUAL: ACTIVATED</string>
+    <string name="activity_aimbot_off">AIMBOT VISUAL: DISABLED</string>
+    <string name="activity_esp_on">LOCATION ESP VISUAL: ACTIVATED</string>
+    <string name="activity_esp_off">LOCATION ESP VISUAL: DISABLED</string>
+    <string name="activity_reset_complete">PANEL RESET COMPLETE</string>
+    <string name="activity_overlay_started">FLOATING OVERLAY ACTIVE</string>
+    <string name="activity_overlay_stopped">FLOATING OVERLAY CLOSED</string>
+    <string name="option_aimbot_title">AIMBOT</string>
+    <string name="option_esp_title">LOCATION ESP</string>
+    <string name="state_on">ON</string>
+    <string name="state_off">OFF</string>
+    <string name="action_reset_panel">RESET PANEL</string>
+    <string name="footer_disclaimer">VISUAL UI DEMO ONLY • NO EXTERNAL ACCESS</string>
+    <string name="cd_toggle_aimbot">Toggle Aimbot visual demo switch</string>
+    <string name="cd_toggle_esp">Toggle Location ESP visual demo switch</string>
+    <string name="cd_reset_panel">Reset all visual demo toggles to OFF</string>
+
+    <!-- Floating Overlay Section -->
+    <string name="overlay_section_title">FLOATING OVERLAY</string>
+    <string name="overlay_status_active">ACTIVE OVER APPS</string>
+    <string name="overlay_status_ready">READY • PERMISSION GRANTED</string>
+    <string name="overlay_status_permission_needed">OVERLAY PERMISSION REQUIRED</string>
+    <string name="overlay_launch_button">OPEN FLOATING PANEL</string>
+    <string name="overlay_stop_button">CLOSE FLOATING PANEL</string>
+    <string name="overlay_grant_button">GRANT OVERLAY PERMISSION</string>
+    <string name="overlay_dialog_title">Allow Display Over Other Apps</string>
+    <string name="overlay_dialog_body">To show the draggable floating Ayanokouji demo icon and panel over other apps, allow "Display over other apps" for Faiz Cheat V1 in Android Settings.\n\nThis is a visual demo panel only and does not read or modify any app or game data.</string>
+    <string name="overlay_dialog_confirm">OPEN SETTINGS</string>
+    <string name="overlay_dialog_cancel">CANCEL</string>
+    <string name="overlay_notification_channel">Floating Demo Panel</string>
+    <string name="overlay_notification_title">FAIZ CHEAT V1 Overlay</string>
+    <string name="overlay_notification_text">Visual demo floating icon active. Tap Close to dismiss.</string>
+    <string name="overlay_notification_close">Close</string>
+    <string name="overlay_brand_compact">FAIZ V1</string>
+    <string name="overlay_demo_tag">VISUAL DEMO</string>
+    <string name="overlay_reset_compact">RESET</string>
+    <string name="cd_overlay_bubble">Floating Ayanokouji icon. Tap to open panel or drag to move.</string>
+    <string name="cd_overlay_minimize">Minimize floating panel</string>
+    <string name="cd_overlay_close">Close floating panel</string>
+    <string name="cd_overlay_launch">Open or close floating overlay panel</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Faiz Cheat V1",
+  "description": "Minimal dark-grey visual demo control panel with smooth ON/OFF toggle animations and session state.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
